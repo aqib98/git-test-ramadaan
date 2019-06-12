@@ -1,4 +1,6 @@
 // add.js
+
+//return the summation of two numbers
 function add(a, b) {
-    // TODO return
+    return a + b
 };
